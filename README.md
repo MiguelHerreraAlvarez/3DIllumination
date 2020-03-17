@@ -7,7 +7,7 @@ In this project I have to create shapes with textures and illumination, so I dec
 Also added a camera that allow to watch the tridimensional shapes.
 
 ### Decisions
--Controls:
+- Controls:
     - W,A,S,D keys to move the camera.
     - P,M keys to adjust the intensity of light.
     - ENTER key to start and pause.
